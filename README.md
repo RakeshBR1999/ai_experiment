@@ -1,1 +1,2 @@
-# ai_experiment
+### ai_experiment
+performing some RAG models
